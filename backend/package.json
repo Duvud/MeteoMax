@@ -9,6 +9,22 @@
   "author": "David Brun",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
-  }
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Duvud/MeteoMax.git"
+  },
+  "keywords": [
+    "MeteoMax",
+    "OpenData",
+    "OpenDataEuskadi",
+    "Euskadi"
+  ],
+  "bugs": {
+    "url": "https://github.com/Duvud/MeteoMax/issues"
+  },
+  "homepage": "https://github.com/Duvud/MeteoMax#readme"
 }
